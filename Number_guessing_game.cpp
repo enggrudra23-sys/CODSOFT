@@ -103,7 +103,7 @@ int main()
 
     number_generate();
 
-    // Easy riddles (no trigonometry)
+  
     int r1 = randnum * 2 + 10;
     int r2 = randnum / 2 + 5;
     int r3 = randnum + 20;
